@@ -1,0 +1,23 @@
+.zx-bg-white {
+  background-color: #fff !important;
+}
+
+.zx-bg-lighter {
+  background-color: #f9fafb !important;
+}
+
+.zx-widget {
+  margin-bottom: 2rem;
+}
+
+[class*=" ti-"], [class^=ti-] {
+  font-family: themify;
+  speak: none;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
